@@ -1,0 +1,38 @@
+.parent{
+    height: 800px;
+    width: 800px;
+    border: 2px solid black;
+    background-color: azure;
+    
+
+} 
+.child{
+    float: left;
+}
+.one{
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: bisque;
+    margin-left: 10px;
+    
+}
+.two{
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    background-color:aqua;
+    margin-left: 10px;
+    
+
+}
+.three{
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    background-color:dimgray;
+    margin-left: 10px;
+    
+    
+}
+

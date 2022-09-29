@@ -1,0 +1,129 @@
+*{
+    color: white;
+    background-color: black;
+}
+
+.fresh{
+    display: flex;
+}
+.first{
+    width: 120px;
+    height: 140px;
+    border: 2px solid black;
+}
+.one{
+ 
+    background-color:rosybrown;
+    margin-left: 300px;
+
+}
+.two{
+  
+    background-color:rgb(12, 219, 123);
+     margin-left: 10px; 
+
+}
+.three{
+    background-color:green;
+    margin-left: 10px;
+    
+}
+.four{
+    background-color:greenyellow;
+    margin-left: 10px;
+}
+.five{
+    background-color:white;
+    margin-left: 10px;
+}
+
+
+.new{
+    display: flex;
+    margin-left: 200px;
+}
+.sec{
+    width: 120px;
+    height: 140px;
+    border: 2px solid black;
+
+}
+.so{
+    background-color: orange;
+    
+}
+.st{
+    background-color: pink;
+    margin-left: 10px;
+}
+.sth{
+    background-color: rgb(201, 14, 45);
+    margin-left: 10px;
+
+}
+.sf{
+    background-color: rgb(66, 41, 180);
+    margin-left: 10px;
+}
+.sfi{
+    background-color: rgb(58, 3, 63);
+    margin-left: 10px;
+}
+.ss{
+    background-color: rgb(23, 184, 23);
+    margin-left: 10px;
+}
+.sse{
+    background-color: rgb(13, 0, 87);
+    margin-left: 10px;
+}
+
+
+
+.third{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.tc{
+    width: 120px;
+    height: 140px;
+    border: 2px solid black;
+
+}
+.th1{
+    background-color: rgba(115, 247, 7, 0.705);
+    margin-left: 10px;
+}
+.th2{
+    background-color: rgba(35, 27, 54, 0.719);
+    margin-left: 10px;
+}
+.th3{
+    background-color: pink;
+    margin-left: 10px;
+}
+.th4{
+    background-color:yellow;
+    margin-left: 10px;
+}
+.th5{
+    background-color:coral;
+    margin-left: 10px;
+}
+.th6{
+    background-color: wheat;
+    margin-left: 10px;
+}
+.th7{
+    background-color: lightgreen;
+    margin-left: 10px;
+}
+.th8{
+    background-color: darkblue;
+    margin-left: 10px;
+}
+.th9{
+    background-color: rgb(194, 247, 3);
+    margin-left: 10px;
+}
